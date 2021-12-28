@@ -23,4 +23,4 @@ This template robot:
       }
     }
     ```
- - Windows: Escape file paths like: "C:\\Users\\your-username-here\\vault.json"
+ - Windows: Escape file paths like: "C:\\\Users\\\your-username-here\\\vault.json"
