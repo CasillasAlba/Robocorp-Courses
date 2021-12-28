@@ -4,6 +4,7 @@ Library           RPA.Browser.Selenium  auto_close=${FALSE}
 Library           RPA.Robocorp.Vault
 Library           RPA.HTTP
 Library           RPA.Excel.Files
+Library           RPA.PDF
 
 *** Tasks ***
 Insert the sales data for the week and export it as a PDF
@@ -12,6 +13,9 @@ Insert the sales data for the week and export it as a PDF
     Download the Excel file
     Fill the form using data from the Excel file
     Collect the results
+    Export the table as a PDF
+    # Ensure we log out and close the browser if the robot fails to reach the end of the task
+    [Teardown]    Log out and close the browser
 
 *** Keywords ***
 Open the intranet website
@@ -57,7 +61,15 @@ Collect the results
     # and ${/} is a built-in variable for the directory path separator (works in any operating system).
     Screenshot    css:div.sales-summary    ${OUTPUT_DIR}${/}sales_summary.png
 
+Export the table as a PDF
+    Wait Until Element Is Visible    id:sales-results
+    # Assign the content (HTML markup) of that part of the page to a variable
+    # where id:sales-results is the locator fot the element
+    # and outerHTML is the name of the attribute of the element we want to get
+    ${sales_results_html}=    Get Element Attribute    id:sales-results    outerHTML
+    Html To Pdf    ${sales_results_html}    ${OUTPUT_DIR}${/}sales_results.pdf   
 
 
-
-    
+Log out and close the browser
+    Click Button    Log out
+    Close Browser
