@@ -1,0 +1,784 @@
+{"level":30,"time":"2022-01-12T09:20:27.163Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Listening on 59723"}
+{"level":30,"time":"2022-01-12T09:20:27.671Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-12T09:20:28.690Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-12T09:20:28.695Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method newContext"}
+{"level":30,"time":"2022-01-12T09:20:28.696Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-12T09:20:28.696Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Trace file: "}
+{"level":30,"time":"2022-01-12T09:20:28.719Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Changed active context"}
+{"level":30,"time":"2022-01-12T09:20:28.719Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method newContext"}
+{"level":30,"time":"2022-01-12T09:20:28.722Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-12T09:20:28.723Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-12T09:20:29.093Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-12T09:20:29.094Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Changed active page"}
+{"level":30,"time":"2022-01-12T09:20:30.813Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-12T09:20:30.815Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:30.816Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2022-01-12T09:20:30.866Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:30.868Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:30.868Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2022-01-12T09:20:30.915Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:30.917Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:30.917Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Log in in page."}
+{"level":30,"time":"2022-01-12T09:20:30.965Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:31.384Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:31.384Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:32.277Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.280Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.280Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:32.305Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.306Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.307Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:32.330Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.332Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:32.333Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:32.353Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:32.355Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:32.355Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:32.576Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:32.580Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.580Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:32.707Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.709Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.709Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:32.746Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.748Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.749Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:32.778Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.780Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:32.780Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:32.802Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:32.805Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:32.805Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:32.992Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:32.997Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:32.997Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.090Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.091Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.091Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.117Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.122Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.122Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:33.151Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.155Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.155Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:33.177Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.178Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:33.178Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:33.360Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:33.362Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.362Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.457Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.458Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.458Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.489Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.490Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.490Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:33.513Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.516Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.516Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:33.538Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.540Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:33.540Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:33.716Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:33.721Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.721Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.809Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.812Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.812Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:33.849Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.850Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.851Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:33.877Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:33.878Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.878Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:33.900Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:33.902Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:33.902Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:34.075Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.079Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.079Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.166Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.169Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.169Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.207Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.208Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.208Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:34.230Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.231Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.231Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:34.254Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.255Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.255Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:34.424Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.427Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.427Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.510Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.513Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.513Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.555Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.556Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.556Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:34.579Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.580Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.580Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:34.599Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.600Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.600Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:34.795Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.799Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.799Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.900Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.904Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.904Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:34.927Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.928Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.928Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:34.950Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:34.952Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.952Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:34.965Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:34.967Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:34.967Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:35.150Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:35.158Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.158Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.229Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.230Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.230Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.264Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.266Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.266Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:35.292Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.293Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:35.294Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:35.310Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:35.311Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:35.311Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:35.472Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:35.475Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.475Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.563Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.564Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.564Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.605Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.606Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.607Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:35.632Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.633Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:35.633Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:35.649Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:35.652Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:35.652Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:35.827Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:35.830Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.830Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.916Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.920Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.920Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:35.954Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.956Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.956Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:35.983Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:35.985Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:35.986Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:36.005Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:36.007Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.007Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:36.173Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.176Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.176Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:36.282Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.283Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.283Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:36.311Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.312Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.312Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:36.338Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.339Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:36.339Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:36.358Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:36.359Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.359Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:36.524Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.528Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.528Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:36.626Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.627Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.627Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:36.665Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.667Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.667Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:36.691Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.692Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:36.692Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:36.709Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:36.711Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.711Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:36.896Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:36.899Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.899Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:36.981Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.982Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:36.983Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:37.016Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.020Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.020Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:37.043Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.044Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.044Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:37.061Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.062Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.062Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:37.242Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.245Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.245Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:37.329Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.330Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.330Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:37.365Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.368Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.368Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:37.396Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.397Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.397Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:37.422Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.424Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.424Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:37.595Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.599Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.599Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:37.708Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.711Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.711Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:37.746Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.748Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.748Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:37.776Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.777Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.777Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:37.793Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:37.794Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.794Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:37.955Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:37.959Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:37.960Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.053Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.054Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.054Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.077Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.078Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.078Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:38.098Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.099Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.099Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:38.114Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.115Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.115Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:38.291Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.293Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.293Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.375Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.377Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.377Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.405Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.407Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.407Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:38.427Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.428Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.428Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:38.443Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.444Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.445Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:38.609Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.611Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.611Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.693Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.694Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.694Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:38.737Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.738Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.738Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:38.764Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.767Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.767Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:38.783Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:38.785Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.785Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:38.961Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:38.964Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:38.965Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.058Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.060Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.060Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.087Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.088Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.088Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:39.108Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.109Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.109Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:39.125Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.126Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.126Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:39.313Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.315Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.315Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.395Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.396Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.396Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.428Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.429Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.429Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:39.454Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.455Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.455Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:39.469Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.470Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.470Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:39.643Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.647Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.647Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.731Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.732Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.732Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:39.760Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.762Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.762Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:39.785Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.786Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.786Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:39.798Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:39.801Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.801Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:39.971Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:39.974Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:39.974Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.056Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.058Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.058Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.080Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.082Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.082Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:40.106Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.107Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.107Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:40.122Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.123Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.123Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:40.297Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.299Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.299Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.381Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.384Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.384Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.414Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.415Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.415Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:40.436Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.437Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.437Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:40.453Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.454Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.454Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:40.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.628Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.628Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.693Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.697Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.697Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:40.724Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.725Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.725Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:40.746Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.747Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.747Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:40.762Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:40.764Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.764Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:40.938Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:40.940Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:40.941Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.015Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.019Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.019Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.044Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.045Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.045Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:41.073Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.074Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.074Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:41.089Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.090Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.090Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:41.253Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.259Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.259Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.314Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.316Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.316Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.354Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.355Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.356Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:41.377Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.378Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.379Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:41.393Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.394Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.394Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:41.564Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.567Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.567Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.647Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.650Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.650Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.680Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.681Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.681Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:41.704Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.705Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.705Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:41.719Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:41.720Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.720Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:41.887Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:41.890Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.890Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:41.974Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.977Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:41.978Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.003Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.004Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.004Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:42.024Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.025Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.026Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:42.040Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.041Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.041Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:42.199Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.205Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.205Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.286Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.289Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.290Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.316Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.319Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.319Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:42.340Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.341Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.341Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:42.355Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.356Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.356Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:42.520Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.522Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.522Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.608Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.611Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.611Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.637Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.638Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.638Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:42.661Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.662Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.662Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:42.679Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.680Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.680Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:42.853Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:42.856Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.856Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.930Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.932Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.932Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:42.962Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.963Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.963Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:42.989Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:42.990Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:42.990Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:43.006Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.007Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.007Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:43.183Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.187Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.187Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.275Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.277Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.277Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.303Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.304Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.304Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:43.324Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.325Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.325Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:43.339Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.340Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.340Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:43.508Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.510Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.510Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.593Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.595Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.595Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.624Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.625Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.626Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:43.651Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.652Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.652Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:43.667Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.668Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.668Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:43.841Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:43.843Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.843Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.936Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.937Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.937Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:43.963Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.964Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.964Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:43.987Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:43.988Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:43.988Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:44.003Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.004Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.004Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:44.171Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.173Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.173Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.247Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.248Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.248Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.273Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.274Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.275Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:44.299Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.301Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.301Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:44.313Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.315Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.315Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:44.484Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.490Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.490Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.570Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.573Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.573Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.600Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.601Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.602Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:44.621Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.622Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:44.639Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.640Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.640Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:44.803Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.808Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.808Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.904Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.906Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.906Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:44.934Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.936Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.936Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:44.956Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:44.957Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.957Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:44.972Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:44.973Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:44.973Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:45.135Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.138Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.138Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.213Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.215Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.215Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.252Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.253Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.253Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:45.273Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.274Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.274Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:45.289Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.290Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.290Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:45.463Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.466Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.466Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.546Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.548Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.548Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.585Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.586Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.586Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:45.607Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.608Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.608Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:45.622Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:45.794Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.797Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.797Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.891Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.893Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.893Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:45.920Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.922Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.922Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:45.944Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:45.945Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.945Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:45.961Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:45.962Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:45.962Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:46.134Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.140Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.140Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.229Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.230Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.230Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.253Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.255Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.255Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:46.278Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.280Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.281Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:46.296Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.298Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.299Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:46.469Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.472Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.472Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.560Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.561Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.561Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.583Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.585Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.585Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:46.606Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.607Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.607Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:46.622Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.623Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:46.790Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.792Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.792Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.888Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.889Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.889Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:46.907Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.908Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.909Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:46.929Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:46.930Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.930Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:46.944Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:46.945Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:46.945Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:47.119Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.121Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.121Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.204Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.206Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.206Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.233Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.235Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.235Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:47.255Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.256Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.256Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:47.270Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.271Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.271Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:47.436Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.439Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.439Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.519Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.521Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.521Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.550Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.551Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.551Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:47.572Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.573Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.574Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:47.588Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.589Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.589Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:47.756Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.759Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.759Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.861Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.862Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.862Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:47.891Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.892Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.892Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:47.912Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:47.913Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.913Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:47.926Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:47.927Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:47.928Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:48.112Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.116Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.116Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.203Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.205Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.205Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.225Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.226Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.226Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:48.245Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.246Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.246Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:48.260Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.261Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.261Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:48.437Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.441Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.441Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.555Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.556Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.556Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.579Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.581Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.581Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:48.605Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.606Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.606Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:48.621Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.622Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.622Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:48.778Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.780Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.780Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.887Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.888Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.888Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-01-12T09:20:48.916Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.917Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.917Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-01-12T09:20:48.937Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method typeText"}
+{"level":30,"time":"2022-01-12T09:20:48.938Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.938Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-01-12T09:20:48.953Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-01-12T09:20:48.954Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:48.954Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-01-12T09:20:49.112Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:49.119Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-12T09:20:49.119Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=div.sales-summary in page."}
+{"level":30,"time":"2022-01-12T09:20:49.277Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-12T09:20:49.279Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-01-12T09:20:49.279Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with css=#sales-results in page."}
+{"level":30,"time":"2022-01-12T09:20:49.291Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Retrieved dom property for element css=#sales-results containing <div id=\"sales-results\"><table class=\"table table-dark table-striped\"><thead><tr><th width=\"24%\" scope=\"col\">Name</th><th width=\"24%\" scope=\"col\">Target</th><th width=\"24%\" scope=\"col\">Result</th><th width=\"24%\" scope=\"col\">Difference</th></tr></thead><tbody><tr><td>Vincenty Stannering</td><td>$30,000</td><td>$109,884</td><td>$79,884</td></tr><tr><td>Petronille Lesor</td><td>$85,000</td><td>$54,805</td><td>$-30,195</td></tr><tr><td>Abra Heap</td><td>$100,000</td><td>$5,937</td><td>$-94,063</td></tr><tr><td>Dorie Batistelli</td><td>$95,000</td><td>$42,450</td><td>$-52,550</td></tr><tr><td>Valenka Tantrum</td><td>$65,000</td><td>$137,708</td><td>$72,708</td></tr><tr><td>Regina Gurling</td><td>$15,000</td><td>$86,186</td><td>$71,186</td></tr><tr><td>Hortensia Leal</td><td>$70,000</td><td>$29,530</td><td>$-40,470</td></tr><tr><td>Jenine Kidby</td><td>$60,000</td><td>$133,576</td><td>$73,576</td></tr><tr><td>Rufus Bewlie</td><td>$85,000</td><td>$119,258</td><td>$34,258</td></tr><tr><td>Gaylord Uebel</td><td>$90,000</td><td>$27,872</td><td>$-62,128</td></tr><tr><td>Jemie Tunnacliffe</td><td>$50,000</td><td>$64,130</td><td>$14,130</td></tr><tr><td>Donia Messenbird</td><td>$75,000</td><td>$52,436</td><td>$-22,564</td></tr><tr><td>Bliss Burgess</td><td>$35,000</td><td>$138,542</td><td>$103,542</td></tr><tr><td>Milena Gudeman</td><td>$45,000</td><td>$24,287</td><td>$-20,713</td></tr><tr><td>Flossie Gurr</td><td>$85,000</td><td>$111,068</td><td>$26,068</td></tr><tr><td>Cathleen Tinklin</td><td>$35,000</td><td>$113,898</td><td>$78,898</td></tr><tr><td>Alikee Kohtler</td><td>$15,000</td><td>$141,102</td><td>$126,102</td></tr><tr><td>Ameline Olivello</td><td>$80,000</td><td>$60,101</td><td>$-19,899</td></tr><tr><td>Claus Bawcock</td><td>$25,000</td><td>$140,602</td><td>$115,602</td></tr><tr><td>Jelene Pridden</td><td>$35,000</td><td>$91,489</td><td>$56,489</td></tr><tr><td>Tiffany Emerine</td><td>$50,000</td><td>$124,313</td><td>$74,313</td></tr><tr><td>Ariadne Kiessel</td><td>$70,000</td><td>$86,637</td><td>$16,637</td></tr><tr><td>Abbe Aldcorn</td><td>$60,000</td><td>$97,489</td><td>$37,489</td></tr><tr><td>Bibi Rosita</td><td>$30,000</td><td>$94,131</td><td>$64,131</td></tr><tr><td>Thurstan Karus</td><td>$50,000</td><td>$131,244</td><td>$81,244</td></tr><tr><td>Madelyn Sire</td><td>$60,000</td><td>$66,825</td><td>$6,825</td></tr><tr><td>Christy Iwaszkiewicz</td><td>$100,000</td><td>$91,465</td><td>$-8,535</td></tr><tr><td>Mahalia Goodee</td><td>$45,000</td><td>$46,997</td><td>$1,997</td></tr><tr><td>Florence Mundow</td><td>$10,000</td><td>$122,953</td><td>$112,953</td></tr><tr><td>Isaac Asimov</td><td>$65,000</td><td>$118,852</td><td>$53,852</td></tr><tr><td>Mickie Linbohm</td><td>$10,000</td><td>$80,516</td><td>$70,516</td></tr><tr><td>Emyle O'Driscole</td><td>$10,000</td><td>$70,981</td><td>$60,981</td></tr><tr><td>Devi Oag</td><td>$10,000</td><td>$140,919</td><td>$130,919</td></tr><tr><td>Myrtle Puddle</td><td>$10,000</td><td>$22,729</td><td>$12,729</td></tr><tr><td>Casar Kubek</td><td>$100,000</td><td>$143,750</td><td>$43,750</td></tr><tr><td>Nathanil Bragg</td><td>$35,000</td><td>$100,336</td><td>$65,336</td></tr><tr><td>Fred Mengoni</td><td>$5,000</td><td>$131,725</td><td>$126,725</td></tr><tr><td>Anabella Blindermann</td><td>$85,000</td><td>$43,564</td><td>$-41,436</td></tr><tr><td>Donnamarie Watts</td><td>$85,000</td><td>$25,924</td><td>$-59,076</td></tr><tr><td>Antoni Degoe</td><td>$75,000</td><td>$106,991</td><td>$31,991</td></tr><tr><td>Belinda Blumenthal</td><td>$70,000</td><td>$115,410</td><td>$45,410</td></tr><tr><td>Lelah Yewdale</td><td>$100,000</td><td>$122,695</td><td>$22,695</td></tr><tr><td>Pearline Fenton</td><td>$35,000</td><td>$78,556</td><td>$43,556</td></tr><tr><td>Ahmed Vasnetsov</td><td>$60,000</td><td>$50,211</td><td>$-9,789</td></tr><tr><td>Ninnette Heinssen</td><td>$25,000</td><td>$63,808</td><td>$38,808</td></tr><tr><td>Yoko Flecknell</td><td>$50,000</td><td>$139,701</td><td>$89,701</td></tr><tr><td>Jocelyn Thomsson</td><td>$95,000</td><td>$99,354</td><td>$4,354</td></tr><tr><td>Dallon Seals</td><td>$15,000</td><td>$61,456</td><td>$46,456</td></tr><tr><td>Conte Mascetti</td><td>$35,000</td><td>$141,182</td><td>$106,182</td></tr><tr><td>David Heazel</td><td>$30,000</td><td>$80,193</td><td>$50,193</td></tr></tbody></table></div>"}
+{"level":30,"time":"2022-01-12T09:20:49.291Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-01-12T09:20:49.450Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-12T09:20:49.450Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Strict mode is enabled, find Locator with text=Log out in page."}
+{"level":30,"time":"2022-01-12T09:20:49.469Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method click"}
+{"level":30,"time":"2022-01-12T09:20:49.470Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-01-12T09:20:49.978Z","pid":4760,"hostname":"GRX-AADJ-627461","msg":"End of node method closeAllBrowsers"}
